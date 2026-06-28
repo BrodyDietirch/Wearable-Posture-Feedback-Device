@@ -1,5 +1,4 @@
 # Wearable-Posture-Feedback-Device
-# Wearable Posture Feedback Device
 
 A wearable prototype that detects when the user's posture moves too far from a calibrated upright position and gives feedback through a buzzer.
 
